@@ -50,7 +50,7 @@ class TardisFeed():
         self.to_date = to_date
         self.raw_messages = []
 
-        baseurl = "muz-tardis:1juBfOmEjzgTABUxAJUqr8TQ@tardis.muwazana.com"
+        baseurl = "{user}:{password}@tardis.muwazana.com"
 
         replay_options = {
             "exchange": exchange,
