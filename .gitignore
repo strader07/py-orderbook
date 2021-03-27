@@ -1,0 +1,8 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+app/__pycache__/
+app/orderbook/__pycache__/
+app/tardis_client/__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
